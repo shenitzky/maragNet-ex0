@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shenitzky/maragNet-ex0/issues"
   },
-  "homepage": "https://github.com/shenitzky/maragNet-ex0#readme"
+  "homepage": "https://github.com/shenitzky/maragNet-ex0#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
+  }
 }
